@@ -1,0 +1,17 @@
+country-converter
+streamlit
+pandas
+numpy
+plotly
+scipy
+streamlit-echarts
+pyecharts
+pypdf
+openai
+python-dotenv
+pycryptodome
+PyPDF2
+langchain
+tiktoken
+boto3
+lxml
